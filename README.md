@@ -1,10 +1,10 @@
 # READING-LIST
 a reading-list for my research
 
-overview for nfv:
+# overview for nfv:
 1.Han B, Gopalakrishnan V, Ji L, et al. Network function virtualization: Challenges and opportunities for innovations[J]. IEEE Communications Magazine, 2015, 53(2): 90-97.
 
-frameworks for network function virtualization:
+# frameworks for network function virtualization:
 1.Go Y, Jamshed M A, Moon Y G, et al. APUNet: Revitalizing GPU as Packet Processing Accelerator[C]//NSDI. 2017: 83-96.
 2.Palkar S, Lan C, Han S, et al. E2: a framework for NFV applications[C]//Proceedings of the 25th Symposium on Operating Systems Principles. ACM, 2015: 121-136.
 3.Panda A, Han S, Jang K, et al. NetBricks: Taking the V out of NFV[C]//OSDI. 2016: 203-216.
@@ -20,21 +20,21 @@ Kenichi Yasukata, Felipe Huici (NEC Laboratories Europe); Vincenzo Maffione, Giu
 Diego Lugones, Jordi Arjona Aroca, Yue Jin, Alessandra Sala, Volker Hilt (Nokia Bell Labs)
 
 
-for benchmark:
+# for benchmark:
 1.Benchmarking NFV Software Dataplanes:Zhixiong Niu, Hong Xu, Yongqiang Tian, Libin Liu, Peng Wang, Zhenhua Li
 2.Bonafiglia R, Cerrato I, Ciaccia F, et al. Assessing the performance of virtualization technologies for nfv: a preliminary benchmarking[C]//Software Defined Networks (EWSDN), 2015 Fourth European Workshop on. IEEE, 2015: 67-72.
 
-about edge:
+# about edge:
 1.Blancoa B, Taboadaa I, Fajardoa J O, et al. A Robust Optimization Based Energy-Aware Virtual Network Function Placement Proposal for Small Cell 5G Networks with Mobile Edge Computing Capabilities[J].
 
-about GPU:
+# about GPU:
 1.Vasiliadis G, Koromilas L, Polychronakis M, et al. GASPP: A GPU-Accelerated Stateful Packet Processing Framework[C]//USENIX Annual Technical Conference. 2014: 321-332.
 2.Yi X, Duan J, Wu C. GPUNFV: a GPU-Accelerated NFV System[C]//Proceedings of the First Asia-Pacific Workshop on Networking. ACM, 2017: 85-91.
 2.Han S, Jang K, Park K S, et al. PacketShader: a GPU-accelerated software router[C]//ACM SIGCOMM Computer Communication Review. ACM, 2010, 40(4): 195-206.
 
-about energy efficiency:
+# about energy efficiency:
 1.Xu Z, Liu F, Wang T, et al. Demystifying the energy efficiency of Network Function Virtualization[C]//Quality of Service (IWQoS), 2016 IEEE/ACM 24th International Symposium on. IEEE, 2016: 1-10.
 
-about migration:
+# about migration:
 1.Liu H, Jin H, Liao X, et al. Live migration of virtual machine based on full system trace and replay[C]//Proceedings of the 18th ACM international symposium on High performance distributed computing. ACM, 2009: 101-110.
 2.Liu H, Jin H, Xu C Z, et al. Performance and energy modeling for live migration of virtual machines[J]. Cluster computing, 2013, 16(2): 249-264.
