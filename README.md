@@ -52,3 +52,6 @@ Diego Lugones, Jordi Arjona Aroca, Yue Jin, Alessandra Sala, Volker Hilt (Nokia 
 1.Liu H, Jin H, Liao X, et al. Live migration of virtual machine based on full system trace and replay[C]//Proceedings of the 18th ACM international symposium on High performance distributed computing. ACM, 2009: 101-110.
 
 2.Liu H, Jin H, Xu C Z, et al. Performance and energy modeling for live migration of virtual machines[J]. Cluster computing, 2013, 16(2): 249-264.
+# about blockchain
+
+# about deep-learning for medical
