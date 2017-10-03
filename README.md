@@ -54,4 +54,4 @@ Diego Lugones, Jordi Arjona Aroca, Yue Jin, Alessandra Sala, Volker Hilt (Nokia 
 2.Liu H, Jin H, Xu C Z, et al. Performance and energy modeling for live migration of virtual machines[J]. Cluster computing, 2013, 16(2): 249-264.
 # about blockchain
 
-# about deep-learning for medical
+# about deep-learning for medicine
