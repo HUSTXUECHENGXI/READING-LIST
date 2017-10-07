@@ -29,7 +29,10 @@ Kenichi Yasukata, Felipe Huici (NEC Laboratories Europe); Vincenzo Maffione, Giu
 11.AidOps: A Data-Driven Provisioning of Virtual Network Functions
 Diego Lugones, Jordi Arjona Aroca, Yue Jin, Alessandra Sala, Volker Hilt (Nokia Bell Labs)
 
+# for SDN:
+Pronto: A Software-Defined Networking based System for Performance Management of Analytical based System for Performance Management of Analytical Queries on Distributed Data Store
 
+A Software-Defined Networking based Approach for Performance Management of Analytical Quries on Distributed Data Stores.
 # for benchmark:
 1.Benchmarking NFV Software Dataplanes:Zhixiong Niu, Hong Xu, Yongqiang Tian, Libin Liu, Peng Wang, Zhenhua Li
 
@@ -55,3 +58,6 @@ Diego Lugones, Jordi Arjona Aroca, Yue Jin, Alessandra Sala, Volker Hilt (Nokia 
 # about blockchain
 
 # about deep-learning for medicine
+learning to read chest x-rays:recurrent neural cascade model for automated image annotation
+
+Depp Convolutional neural networks for computer-aided detection:CNN architectures,Dataset Characteristics and Transfer Learning
