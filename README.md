@@ -24,10 +24,12 @@ a reading-list for my research
 9.Sun C, Bi J, Zheng Z, et al. SLA-NFV: an SLA-aware High Performance Framework for Network Function Virtualization[C]//Proceedings of the 2016 conference on ACM SIGCOMM 2016 Conference. ACM, 2016: 581-582.
 
 10.HyperNF: Building a High Performance, High Utilization and Fair NFV Platform
-Kenichi Yasukata, Felipe Huici (NEC Laboratories Europe); Vincenzo Maffione, Giuseppe Lettieri (University of Pisa); Michio Honda (NEC Laboratories Eur)
+Kenichi Yasukata, Felipe Huici (NEC Laboratories Europe); Vincenzo Maffione, Giuseppe Lettieri (University of Pisa); Michio Honda (NEC Laboratories Eur)  (10-10)
 
 11.AidOps: A Data-Driven Provisioning of Virtual Network Functions
 Diego Lugones, Jordi Arjona Aroca, Yue Jin, Alessandra Sala, Volker Hilt (Nokia Bell Labs)
+
+12.Heterogeneous virtualized network function framework for the data center 2017 fpl ----(not reading)
 
 # for SDN:
 Pronto: A Software-Defined Networking based System for Performance Management of Analytical based System for Performance Management of Analytical Queries on Distributed Data Store
