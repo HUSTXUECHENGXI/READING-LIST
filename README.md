@@ -32,7 +32,7 @@ Diego Lugones, Jordi Arjona Aroca, Yue Jin, Alessandra Sala, Volker Hilt (Nokia 
 12.Heterogeneous virtualized network function framework for the data center 2017 fpl ----(not reading)
 
 13.NFP: Enabling Network Function Parallelism in NFV. Chen Sun, Jun Bi, Zhilong Zheng, and Heng Yu (Tsinghua University) and Hongxin Hu sigcomm (done)
-
+14.NFVnice: Dynamic Backpressure and Scheduling for NFV Service Chains SIGCOMM2017 (done)
 # for SDN:
 Pronto: A Software-Defined Networking based System for Performance Management of Analytical based System for Performance Management of Analytical Queries on Distributed Data Store
 
