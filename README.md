@@ -32,7 +32,11 @@ Diego Lugones, Jordi Arjona Aroca, Yue Jin, Alessandra Sala, Volker Hilt (Nokia 
 12.Heterogeneous virtualized network function framework for the data center 2017 fpl ----(not reading)
 
 13.NFP: Enabling Network Function Parallelism in NFV. Chen Sun, Jun Bi, Zhilong Zheng, and Heng Yu (Tsinghua University) and Hongxin Hu sigcomm (done)
+
 14.NFVnice: Dynamic Backpressure and Scheduling for NFV Service Chains SIGCOMM2017 (done)
+
+# Database for SDN:
+Fiber-based architecture for NFV cloud databases - industrial Mohamed Ziauddin
 # for SDN:
 Pronto: A Software-Defined Networking based System for Performance Management of Analytical based System for Performance Management of Analytical Queries on Distributed Data Store
 
@@ -42,6 +46,7 @@ A Software-Defined Networking based Approach for Performance Management of Analy
 
 2.Bonafiglia R, Cerrato I, Ciaccia F, et al. Assessing the performance of virtualization technologies for nfv: a preliminary benchmarking[C]//Software Defined Networks (EWSDN), 2015 Fourth European Workshop on. IEEE, 2015: 67-72.
 
+3.Capability Models for Manycore Menmory Systems:A Case-Study with Xeon Phi KNL.
 # about edge:
 1.Blancoa B, Taboadaa I, Fajardoa J O, et al. A Robust Optimization Based Energy-Aware Virtual Network Function Placement Proposal for Small Cell 5G Networks with Mobile Edge Computing Capabilities[J].
 
