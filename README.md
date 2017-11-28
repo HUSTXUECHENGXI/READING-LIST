@@ -60,6 +60,8 @@ A Software-Defined Networking based Approach for Performance Management of Analy
 # about energy efficiency:
 1.Xu Z, Liu F, Wang T, et al. Demystifying the energy efficiency of Network Function Virtualization[C]//Quality of Service (IWQoS), 2016 IEEE/ACM 24th International Symposium on. IEEE, 2016: 1-10.
 
+
+
 # about migration:
 1.Liu H, Jin H, Liao X, et al. Live migration of virtual machine based on full system trace and replay[C]//Proceedings of the 18th ACM international symposium on High performance distributed computing. ACM, 2009: 101-110.
 
@@ -70,3 +72,13 @@ A Software-Defined Networking based Approach for Performance Management of Analy
 learning to read chest x-rays:recurrent neural cascade model for automated image annotation (done)
 
 Depp Convolutional neural networks for computer-aided detection:CNN architectures,Dataset Characteristics and Transfer Learning
+
+
+# about chatbot:
+1.Generative Deep Neural Networks for Dialogue:A Short Review
+2.DIALOG CONTEXT LANGUAGE MODELING WITH RECURRENT NEURAL NETWORKS
+3.Applying Deep Learning To Answer Selection- A Study And An Open Task (2015)
+4.sirius
+5.chat detrction in an intelligent assistant:combining task-oriented and non-task-oriented spoken dialogue systems
+6.from msra:sequential matching network: a new archecture for multi-turn response selection in retrieval-based chatbots.
+
